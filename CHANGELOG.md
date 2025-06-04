@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-06-02)
+## Unreleased (2025-06-04)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`9bdeea6`](https://github.com/stdlib-js/stdlib/commit/9bdeea6f5229c13589cc191b2f83e89541c26199) - **docs:** update examples for `complex/float64/base/scale` [(#7196)](https://github.com/stdlib-js/stdlib/pull/7196) _(by Shabareesh Shetty)_
 -   [`c705a94`](https://github.com/stdlib-js/stdlib/commit/c705a94eb25e0783437c29a1a9bdb6a41fb09207) - **style:** add missing space [(#7173)](https://github.com/stdlib-js/stdlib/pull/7173) _(by Shabareesh Shetty)_
 -   [`5c8faed`](https://github.com/stdlib-js/stdlib/commit/5c8faed8016941ff5a337bb4d14b1bdb65748993) - **docs:** update example _(by Athan Reines)_
 -   [`a1e230f`](https://github.com/stdlib-js/stdlib/commit/a1e230f29297caa89880e9c194c615a0400fb7bc) - **chore:** clean up cppcheck-suppress comments _(by Karan Anand)_
