@@ -48,13 +48,13 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import scale from 'https://cdn.jsdelivr.net/gh/stdlib-js/complex-float64-base-scale@deno/mod.js';
+import scale from 'https://cdn.jsdelivr.net/gh/stdlib-js/complex-float64-base-scale@v0.1.0-deno/mod.js';
 ```
 
 You can also import the following named exports from the package:
 
 ```javascript
-import { assign, strided } from 'https://cdn.jsdelivr.net/gh/stdlib-js/complex-float64-base-scale@deno/mod.js';
+import { assign, strided } from 'https://cdn.jsdelivr.net/gh/stdlib-js/complex-float64-base-scale@v0.1.0-deno/mod.js';
 ```
 
 #### scale( alpha, z )
@@ -140,7 +140,7 @@ The function supports the following parameters:
 import Complex128Array from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-complex128@deno/mod.js';
 import discreteUniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-discrete-uniform@deno/mod.js';
 import logEachMap from 'https://cdn.jsdelivr.net/gh/stdlib-js/console-log-each-map@deno/mod.js';
-import scale from 'https://cdn.jsdelivr.net/gh/stdlib-js/complex-float64-base-scale@deno/mod.js';
+import scale from 'https://cdn.jsdelivr.net/gh/stdlib-js/complex-float64-base-scale@v0.1.0-deno/mod.js';
 
 // Generate an array of random values:
 var values = new Complex128Array( discreteUniform( 200, -50, 50 ) );
